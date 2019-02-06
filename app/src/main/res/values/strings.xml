@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment01</string>
+    <string name="check_box_sun">Sunday</string>
+    <string name="check_box_sat">Saturday</string>
+    <string name="check_box_mon">Monday</string>
+    <string name="check_box_tues">Tuesday</string>
+    <string name="check_box_wed">Wednesday</string>
+    <string name="check_box_thurs">Thursday</string>
+    <string name="check_box_fri">Friday</string>
+    <string name="radio_button_sound">Sound Only</string>
+    <string name="radio_button_vibration">Vibration Only</string>
+    <string name="radio_button_sound_vib">Sound And Vibration</string>
+
+</resources>
